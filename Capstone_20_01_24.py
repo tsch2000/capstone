@@ -17,7 +17,7 @@ import matplotlib.patches as mpatches
 from matplotlib.lines import Line2D
 
 
-plt.rcParams['figure.dpi'] = 300
+plt.rcParams['figure.dpi'] = 400
 
 
 #-------------------------------------------------------
